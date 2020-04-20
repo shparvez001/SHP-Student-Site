@@ -1,0 +1,101 @@
+ErrorDocument 404 /404.php
+
+RewriteEngine on
+
+
+RewriteRule ^IAL/(.*?)$ /ial.php
+RewriteRule ^IAL$ /ial.php
+RewriteRule ^IAl/(.*?)$ /ial.php
+RewriteRule ^IAl$ /ial.php
+RewriteRule ^Ial/(.*?)$ /ial.php
+RewriteRule ^Ial$ /ial.php
+RewriteRule ^ial/(.*?)$ /ial.php
+RewriteRule ^ial$ /ial.php
+RewriteRule ^iAL/(.*?)$ /ial.php
+RewriteRule ^iAL$ /ial.php
+RewriteRule ^iaL/(.*?)$ /ial.php
+RewriteRule ^iaL$ /ial.php
+RewriteRule ^Alevel/(.*?)$ /ial.php
+RewriteRule ^Alevel$ /ial.php
+RewriteRule ^alevel/(.*?)$ /ial.php
+RewriteRule ^alevel$ /ial.php
+
+
+RewriteRule ^IGCSE/(.*?)$ /igcse.php
+RewriteRule ^IGCSE$ /igcse.php
+RewriteRule ^igcse/(.*?)$ /igcse.php
+RewriteRule ^igcse$ /igcse.php
+RewriteRule ^Igcse/(.*?)$ /igcse.php
+RewriteRule ^Igcse$ /igcse.php
+RewriteRule ^iGCSE/(.*?)$ /igcse.php
+RewriteRule ^iGCSE$ /igcse.php
+RewriteRule ^olevel/(.*?)$ /igcse.php
+RewriteRule ^olevel$ /igcse.php
+RewriteRule ^Olevel/(.*?)$ /igcse.php
+RewriteRule ^Olevel$ /iigcse.php
+
+RewriteRule ^GED/(.*?)$ /ged.php
+RewriteRule ^GED$ /ged.php
+RewriteRule ^ged/(.*?)$ /ged.php
+RewriteRule ^ged$ /ged.php
+RewriteRule ^Ged/(.*?)$ /ged.php
+RewriteRule ^Ged$ /ged.php
+RewriteRule ^GEd/(.*?)$ /ged.php
+RewriteRule ^GEd$ /ged.php
+RewriteRule ^gED/(.*?)$ /ged.php
+RewriteRule ^gED$ /ged.php
+RewriteRule ^geD/(.*?)$ /ged.php
+RewriteRule ^geD$ /ged.php
+
+
+
+RewriteRule ^contact$ /contact.php
+
+
+RewriteRule ^course/(.*?)$ /course.php
+RewriteRule ^course$ /course.php
+RewriteRule ^courses/(.*?)$ /course.php
+RewriteRule ^courses$ /course.php
+RewriteRule ^Course/(.*?)$ /course.php
+RewriteRule ^Course$ /course.php
+RewriteRule ^Courses/(.*?)$ /course.php
+RewriteRule ^Courses$ /course.php
+RewriteRule ^COURSE/(.*?)$ /course.php
+RewriteRule ^COURSES$ /course.php
+RewriteRule ^COurse/(.*?)$ /course.php
+RewriteRule ^COurse$ /course.php
+
+
+RewriteRule ^download/(.*?)$ /downloads.php
+RewriteRule ^download$ /downloads.php
+RewriteRule ^downloads/(.*?)$ /downloads.php
+RewriteRule ^downloads$ /downloads.php
+RewriteRule ^Download/(.*?)$ /downloads.php
+RewriteRule ^Download$ /downloads.php
+RewriteRule ^Downloads/(.*?)$ /downloads.php
+RewriteRule ^Downloads$ /downloads.php
+RewriteRule ^DOWNLOAD/(.*?)$ /downloads.php
+RewriteRule ^DOWNLOAD$ /downloads.php
+RewriteRule ^DOWNLOADS/(.*?)$ /downloads.php
+RewriteRule ^DOWNLOADS$ /downloads.php
+
+
+RewriteRule ^calendar/(.*?)$ /calendar.php
+
+RewriteRule ^calendar$ /calendar.php
+RewriteRule ^calendars/(.*?)$ /calendar.php
+
+RewriteRule ^calendars$ /calendar.php
+RewriteRule ^CALENDAR/(.*?)$ /calendar.php
+
+RewriteRule ^CALENDAR$ /calendar.php
+RewriteRule ^CALENDARS/(.*?)$ /calendar.php
+
+RewriteRule ^CALENDARS$ /calendar.php
+RewriteRule ^Calendar/(.*?)$ /calendar.php
+
+RewriteRule ^Calendar$ /calendar.php
+RewriteRule ^Calendars/(.*?)$ /calendar.php
+
+RewriteRule ^Calendars$ /calendar.php
+

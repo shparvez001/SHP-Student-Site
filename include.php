@@ -1,0 +1,1 @@
+<?php set_include_path("/home/shparvez/public_html/students/include"); ?>
