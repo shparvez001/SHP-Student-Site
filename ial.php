@@ -72,6 +72,53 @@ Among study materials you may find notes and other related links for studying. C
 Coming soon
 </p>
 
+<h3>Online Class Videos</h3>
+
+ <ul class="nav nav-pills nav-justified">
+	 <li><a class="active" data-toggle="pill" href="#pu1">Unit 1</a></li>
+	 <li><a data-toggle="pill" href="#pu2">Unit 2</a></li>
+	 <li><a data-toggle="pill" href="#pu4">Unit 4</a></li>
+	 <li><a data-toggle="pill" href="#pu5">Unit 5</a></li>
+ </ul>
+<br>
+<div class="tab-content">
+	<div id="pu1" class="tab-pane fade in active">
+		<?php
+			$vids=array();
+			foreach ($vids as $id=>$vid)
+			{
+				echo '<div class="container"><iframe src="https://www.youtube.com/embed/'.$vid.'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div><br>'.PHP_EOL;
+			}
+		?>
+	</div>
+	<div id="pu2" class="tab-pane fade in ">
+		<?php
+			$vids=array("gq5EQUITZnQ","zX8B2iDO0go","uiPpWi9NKnQ","M-wZb0DAJNg","2CYuaWE9Gq0","I6XaWeS38MY");
+			foreach ($vids as $id=>$vid)
+			{
+				echo '<div class="container"><iframe src="https://www.youtube.com/embed/'.$vid.'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div><br>'.PHP_EOL;
+			}
+		?>
+	</div>
+		<div id="pu4" class="tab-pane fade in">
+			<?php
+				$vids=array("ePX171UenE8","","","RCtJMY0lalM","K4tBUAzfPRo","0ydexedKH9o","xf3X4K3KDuc","xAudVm4ylg0");
+				foreach ($vids as $id=>$vid)
+				{
+					echo '<div class="container"><iframe src="https://www.youtube.com/embed/'.$vid.'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div><br>'.PHP_EOL;
+				}
+			?>
+		</div>
+		<div id="pu5" class="tab-pane fade in ">
+			<?php
+				$vids=array("-CmKPoFfLY4","mJmvzPJ5iVg","G1XsJxtOIco","Pc5gog-m5Q8","f040SakzuxM","4XsEleFxnVQ");
+				foreach ($vids as $id=>$vid)
+				{
+					echo '<div class="container"><iframe src="https://www.youtube.com/embed/'.$vid.'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div><br>'.PHP_EOL;
+				}
+			?>
+		</div>
+
 </div>
 
 
@@ -93,13 +140,44 @@ Notes for Chemistry
 <p style="text-align: center;">
 Coming soon
 </p>
-<p>Online Class Videos</p>
-<div class="container"><iframe src="https://www.youtube.com/embed/kR8X8RIZtGY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div>
-<div class="container"><iframe src="https://www.youtube.com/embed/uPBx_X6HHJk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div>
-<div class="container"><iframe src="https://www.youtube.com/embed/i8MI40iAr18" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div>
-<div class="container"><iframe src="https://www.youtube.com/embed/Pyxsf6eWOc8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div>
-<div class="container"><iframe src="https://www.youtube.com/embed/yDjWp3Wnz4U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div>
-<div class="container"><iframe width="560" height="315" src="https://www.youtube.com/embed/orkTFlsUNNY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div>
+<h3>Online Class Videos</h3>
+
+ <ul class="nav nav-pills nav-justified">
+	 <li><a class="active" data-toggle="pill" href="#u4-inorganic">Unit 4 inorganic</a></li>
+	 <li><a data-toggle="pill" href="#u5-inroganic">Unit 5 inorganic</a></li>
+	 <li><a data-toggle="pill" href="#a2-organic">A2 Organic</a></li>
+ </ul>
+<br>
+<div class="tab-content">
+	<div id="u4-inorganic" class="tab-pane fade in active">
+		<?php
+			$vids=array("_LHoXBMsipQ","R2b7xZknXrQ","fGpIhlZtrK0","EqET2OWBj0Y","tfSA8DUzxyY");
+			foreach ($vids as $id=>$vid)
+			{
+				echo '<div class="container"><iframe src="https://www.youtube.com/embed/'.$vid.'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div><br>'.PHP_EOL;
+			}
+		?>
+	</div>
+	<div id="u5-inroganic" class="tab-pane fade in ">
+		<?php
+			$vids=array();
+			foreach ($vids as $id=>$vid)
+			{
+				echo '<div class="container"><iframe src="https://www.youtube.com/embed/'.$vid.'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div><br>'.PHP_EOL;
+			}
+		?>
+	</div>
+	<div id="a2-organic" class="tab-pane fade in ">
+		<?php
+			$vids=array("kR8X8RIZtGY", "uPBx_X6HHJk" , "i8MI40iAr18", "Pyxsf6eWOc8", "yDjWp3Wnz4U", "orkTFlsUNNY");
+			foreach ($vids as $id=>$vid)
+			{
+				echo '<div class="container"><iframe src="https://www.youtube.com/embed/'.$vid.'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div><br>'.PHP_EOL;
+			}
+		?>
+	</div>
+
+</div>
 
 
 
