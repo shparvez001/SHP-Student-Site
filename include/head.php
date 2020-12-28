@@ -18,25 +18,27 @@
 <!-- Latest compiled JavaScript -->
 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 
+<!-- Custom CSS-->
+<link rel="stylesheet" href="include/style.css">
 
-<!-- 
+<!--
 <!--Lightbox  -->
 
 <script src="/lightbox/js/lightbox.min.js"></script>
- 
+
 <script src="/lightbox/js/jquery-1.11.0.min.js"></script>
 
-	
+
 	<link rel="stylesheet" href="/lightbox/css/screen.css">
-	
-	
+
+
 	<link rel="stylesheet" href="/lightbox/css/lightbox.css">
     -->
-     
-     
-     
-	
-	
+
+
+
+
+
 <!--	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Karla%7CMontserrat">	  -->
 
 <!--

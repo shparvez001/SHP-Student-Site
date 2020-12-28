@@ -16,6 +16,8 @@
 
 <title>Edexcel IAL [A level] | SHP's teaching resources</title>
 
+
+
 </head>
 
 
@@ -91,13 +93,13 @@ Notes for Chemistry
 <p style="text-align: center;">
 Coming soon
 </p>
-Online Class Videos
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kR8X8RIZtGY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uPBx_X6HHJk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i8MI40iAr18" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pyxsf6eWOc8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDjWp3Wnz4U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/orkTFlsUNNY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>Online Class Videos</p>
+<div class="container"><iframe src="https://www.youtube.com/embed/kR8X8RIZtGY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div>
+<div class="container"><iframe src="https://www.youtube.com/embed/uPBx_X6HHJk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div>
+<div class="container"><iframe src="https://www.youtube.com/embed/i8MI40iAr18" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div>
+<div class="container"><iframe src="https://www.youtube.com/embed/Pyxsf6eWOc8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div>
+<div class="container"><iframe src="https://www.youtube.com/embed/yDjWp3Wnz4U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div>
+<div class="container"><iframe width="560" height="315" src="https://www.youtube.com/embed/orkTFlsUNNY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe></div>
 
 
 
