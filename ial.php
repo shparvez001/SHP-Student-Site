@@ -8,7 +8,7 @@
 <?php include 'head.php'; ?>
 <?php include 'menu.php'; ?>
 
-<!-- 
+<!--
 <script src="includes/jquery.sexylightbox.min.js" type="text/javascript"></script>
 <link rel="stylesheet" href="includes/sexylightbox.css" type="text/css">
 	-->
@@ -59,7 +59,7 @@ Among study materials you may find notes and other related links for studying. C
 
 
 <!-- 1st column -->
-<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
 
 
 <div style="background: #fdf2c8; !important" class="jumbotron">
@@ -78,7 +78,7 @@ Coming soon
 </div>
 
 <!-- 2nd column -->
-<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
 
 
 
