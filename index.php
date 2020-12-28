@@ -31,7 +31,7 @@
 
 
 <?php 
-include 'config.php'; 
+//include 'config.php'; 
 ?>
 
 
@@ -94,7 +94,7 @@ Among study materials you may find notes and other related links for studying. C
 <!--
 <?php include 'time.php'; ?>
 -->
-<?php include 'configclose.php'; ?>
+<?php //include 'configclose.php'; ?>
 
 
 

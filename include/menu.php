@@ -19,7 +19,7 @@
 
 <li ><a title="IAL"  href="IAL">IAL</a></li>
 <li ><a title="IGCSE"  href="IGCSE">IGCSE</a></li>
-<li ><a title="GED"  href="/GED">GED</a></li>
+<li ><a title="GED"  href="GED">GED</a></li>
 <li ><a title="Contact"  href="/contact">Contact</a></li>
 
 
