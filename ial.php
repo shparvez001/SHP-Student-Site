@@ -75,7 +75,7 @@ Coming soon
 <h3>Online Class Videos</h3>
 
  <ul class="nav nav-pills nav-justified">
-	 <li><a class="active" data-toggle="pill" href="#pu1">Unit 1</a></li>
+	 <li class="active" ><a data-toggle="pill" href="#pu1">Unit 1</a></li>
 	 <li><a data-toggle="pill" href="#pu2">Unit 2</a></li>
 	 <li><a data-toggle="pill" href="#pu4">Unit 4</a></li>
 	 <li><a data-toggle="pill" href="#pu5">Unit 5</a></li>
@@ -125,6 +125,7 @@ Coming soon
 
 
 </div>
+</div>
 
 <!-- 2nd column -->
 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
@@ -143,7 +144,7 @@ Coming soon
 <h3>Online Class Videos</h3>
 
  <ul class="nav nav-pills nav-justified">
-	 <li><a class="active" data-toggle="pill" href="#u4-inorganic">Unit 4 inorganic</a></li>
+	 <li class="active" ><a data-toggle="pill" href="#u4-inorganic">Unit 4 inorganic</a></li>
 	 <li><a data-toggle="pill" href="#u5-inroganic">Unit 5 inorganic</a></li>
 	 <li><a data-toggle="pill" href="#a2-organic">A2 Organic</a></li>
  </ul>
